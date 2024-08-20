@@ -1,0 +1,8 @@
+[
+  { "name": "Triangle", "angles": 3 },
+  { "name": "Square", "angles": 4 },
+  { "name": "Pentagon", "angles": 5 },
+  { "name": "Hexagon", "angles": 6 },
+  { "name": "Heptagon", "angles": 7 },
+  { "name": "Octagon", "angles": 8 }
+]
